@@ -14,7 +14,7 @@ Esta práctica introductoria permite aprender a programar y controlar dispositiv
 
 void setup() 
 {
- pinMode(13,OUTPUT); 
+ pinMode(LedA,OUTPUT); 
 }
 
 void loop() 
