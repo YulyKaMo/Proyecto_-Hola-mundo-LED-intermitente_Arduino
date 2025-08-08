@@ -2,11 +2,11 @@
 
 Esta práctica introductoria permite aprender a programar y controlar dispositivos electrónicos. Consiste en hacer que un LED se encienda y apague repetidamente, simulando un parpadeo, generalmente con un intervalo de tiempo definido entre cada cambio de estado. Es el equivalente al "Hola Mundo" en otros lenguajes de programación, mostrando la capacidad básica de interactuar con el hardware.
 
-![Texto alternativo de la imagen](img/Img01_Tematicas.jpg)
+![Temáticas proyecto Hola mundo—LED intermitente_Arduino](img/Img01_Tematicas.jpg)
 
-![Texto alternativo de la imagen](img/Img02_Materiales.jpg)
+![Materiales proyecto Hola mundo—LED intermitente_Arduino](img/Img02_Materiales.jpg)
 
-![Texto alternativo de la imagen](img/Img03_Plano.jpg)
+![Plano proyecto Hola mundo—LED intermitente_Arduino](img/Img03_Plano.jpg)
 
 # Codigo para Arduino
 
