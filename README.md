@@ -9,7 +9,7 @@ Esta práctica introductoria permite aprender a programar y controlar dispositiv
 ![Plano proyecto Hola mundo—LED intermitente_Arduino](img/Img03_Plano.jpg)
 
 # Codigo para Arduino
-
+```
 #define LedA 13;
 
 void setup() 
@@ -24,3 +24,4 @@ void loop()
  digitalWrite(LedA,LOW); 
  delay(1000); 
 }
+```
