@@ -1,0 +1,20 @@
+1. A partir del código de programación explicado anteriormente, queremos que
+un LED prenda de manera intermitente de la siguiente manera:
+
+A) 3 segundos prendido y 3 segundos apagado
+B) 200 milisegundos prendido y 500 milisegundos apagado
+Tip: 1s = 1000ms
+
+--------------------------------------------------------------------------------------
+
+2. La empresa de automatización NRJ Inc. te contrata para hacer un montaje de
+un LED Intermitente en una placa Arduino UNO, con el único requisito de que
+el LED debe estar ubicado en el Pin 5, ellos muy amablemente te han facilitado 
+el esquema, tu tarea es:
+
+A) Realizar el montaje y la respectiva programación de 2 segundos prendido y
+1 segundo apagado
+
+3. Un Strober es un bombillo que prende y apaga muy rápido, muy usado en las 
+fiestas, tu misión es realizar tu strober casero con un LED, con el mismo esquema 
+montado en el ejercicio inicial.
