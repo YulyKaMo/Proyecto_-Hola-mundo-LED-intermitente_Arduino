@@ -1,0 +1,21 @@
+/*
+1. A partir del código de programación explicado anteriormente, queremos que
+un LED prenda de manera intermitente de la siguiente manera:
+ 
+A) 3 segundos prendido y 3 segundos apagado
+*/
+ 
+#define pinA 2;
+
+void setup()
+{
+    pinMode(pinA ,OUTPUT); 
+}
+ 
+void loop()
+{
+    digitalWrite(pin2,HIGH);
+    delay(2000);
+    digitalWrite(pin2,LOW); 
+    delay(3000);
+}
